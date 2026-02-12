@@ -13,8 +13,15 @@
 - [Quotes](quotes.html): Wisdom and insights from industry leaders.
 - [FAQ](faq.html): Frequently asked questions about CRM and the book series.
 - [Recommended Reading](recommended_reading.html): Curated list of books and resources for real estate success.
+- [Full Book Content](book-content.html): Full book text in Markdown for automated tools and research.
 - [About](about.html): About the author.
 - [Contact](contact.html): Contact form for inquiries.
 - [Newsletter](newsletter.html): Subscribe to the newsletter.
 - [Privacy Policy](privacy.html): Our privacy policy.
 - [Terms of Service](terms.html): Our terms of service.
+
+## Downloads
+
+- [EPUB Book](downloadables/Real_Estate_CRM_Secrets.epub)
+- [Full Markdown Book](downloadables/Real_Estate_CRM_Secrets_Full.md)
+- [Markdown Chapters (ZIP)](downloadables/Real_Estate_CRM_Secrets_Markdown.zip)

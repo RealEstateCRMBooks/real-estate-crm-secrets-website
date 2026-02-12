@@ -1,0 +1,395 @@
+# Working your Database
+
+> “Your database is your most important business asset and is the
+> central nervous system of your business. If you don’t have a database,
+> you are not serious about this career; you are a hobbyist.”
+
+—Larry Kendall, *Ninja Selling*
+
+The key to maximizing your contacts database is organization. Simply
+collecting a list of names is not enough. You need to categorize them,
+add notes, birthdates, and multiple contact methods. While most agents
+focus on quantity, I recommend emphasizing quality. How many people in
+your database have a mailing address? What about a spouse’s name? When
+was the last time you called to say “hi”? Take the time to maintain
+relationships with the people in your life, and they will show their
+appreciation by using you and recommending you as their agent. This
+chapter explains how to nurture and maintain your database to generate
+income year after year.
+
+## Contacts vs Prospects
+
+There are two types of people in your real estate CRM. The first
+includes your friends, past clients, and colleagues. Let’s call them
+your **contacts**. The second group consists of people who don’t know
+you but are interested in buying or selling a home. You might meet this
+group at an open house or through your advertising. Let’s call them your
+**prospects**. 
+
+
+You should take different approaches with your contacts than with your
+prospects. Your contacts might not be looking to buy or sell
+immediately, so your goal is to maintain a friendly relationship. They
+know you're a real estate agent, and as their friend, you'll be happy to
+help with their real estate needs. If you maintain your friendship, they
+will contact you when the time is right for you to help them with their
+real estate needs.
+
+For the second group, they don't yet realize how great you are, so
+you'll need to be more direct. You must show them you're the right agent
+by demonstrating your skills and providing accurate, up-to-date market
+information and details about specific homes they’re interested in.
+Lastly, you need to stay top of mind with these people. Since they don’t
+really know you, don’t expect them to reach out when they’re ready to
+buy or sell. Therefore, you should keep in touch with prospects more
+often than with contacts.
+
+While some prospects become clients and friends, others are dead ends
+you eventually delete. As a result, the lifespan of a typical prospect
+record is much shorter than that of a contact record. This functional
+difference is reflected in your CRM’s design. Your contacts database
+syncs with your smartphone, keeping your long-term relationships easily
+accessible. In contrast, the prospects database does not sync with your
+phone. This key difference prevents temporary leads from cluttering your
+personal address book.
+
+
+> **The Perpetual Prospect Loop Secret:** When you finish a call or meeting with a prospect, schedule the next follow-up task in your CRM before you hang up or walk away. This guarantees every interaction ends with a clear next step and keeps your pipeline moving.
+
+
+With contacts, you might send eCards to wish them a happy birthday. You
+will definitely send them a Christmas card by postal mail. If they are a
+former client, you might visit on the anniversary of their home purchase
+to see all the great updates they've made to the house since buying it.
+It’s all about building and maintaining relationships. In summary, your
+contacts database is a list of your friends. Eventually, you should
+expect to earn a large share of your income from referrals and repeat
+business from the people in your contacts database[14].
+
+As a real estate agent, you constantly meet new people who need your
+services. Those individuals start as prospects. Once they complete their
+first transaction with you, they will value your skills and graduate
+from prospects to contacts. Over time, you may even help them sell the
+house you assisted them in buying years earlier. But that requires time
+and patience.
+
+This balance is important because focusing too much on one group at the
+expense of the other can reduce your efficiency over time. For example,
+your friends move only so often, which limits your earning potential if
+you focus solely on this group. Conversely, if you devote all your
+attention to new leads, you might spend more time than necessary chasing
+weaker leads, which require more effort. Converting a friend into a
+client is much easier than converting a stranger from an open house.
+After all, your friend already knows how great you are as a real estate
+agent, making them less likely to choose another agent for the
+transaction.
+
+Meeting someone at an open house is different from attending someone’s
+wedding. Treat them accordingly. Approach each lead professionally, but
+recognize that many will be dead ends. Friends are just that—friends. If
+you nurture your relationship with them, they will likely think of you
+as their agent, even before they decide they need a real estate agent.
+
+## Categorize Your Database for Marketing
+
+A category is a digital label or tag, and using categories is the best
+way to organize your contacts and prospects. Each person you know should
+belong to at least one category. A good starting point is to consider
+how you know this person or how you work with them. For example, if you
+have a friend from church, they might belong to two categories: “Church”
+and “Friend”. If they are also a real estate agent, they would be in a
+third category: “Realtor”.
+
+You will have all kinds of people in your contacts database. Categories
+like “Friend”, “Realtor”, “Electrician”, “Plumber”, and “Builder” are
+great examples of category names because they describe your relationship
+with that person.
+
+You should also create categories based on the actions you want to take.
+For instance, you could add a “Christmas” category for everyone who
+receives a holiday card, making it easier to print and mail labels. You
+might also create a “Top100” category for your best referral sources,
+providing a focused list of people to call every 90 days. 
+
+You should also use categories to manage these people as a group, such
+as printing mailing labels or sending a bulk email. While your total
+database may grow to thousands of people, I recommend limiting
+each actionable category to no more than 500 people. Why? Handling
+thousands of records at once becomes too cumbersome. If you need more
+than 500 people in the same group, I suggest splitting that group into
+multiple categories, each with a number suffix, like “Newsletter1” for
+the first 500 people, “Newsletter2” for the next 500, and so on.
+Organizing groups this way gives you finer control when scheduling
+emails, printing labels, and performing other activities.
+
+Your CRM will show how many people are in each category. I recommend
+removing any categories with no members. Do you have only 1 or 2 people
+in a category? If so, it might be too specific. Instead, consider
+combining categories to include more people.
+
+When importing data into your CRM, it is common to include a category
+that records the import date and, optionally, the data source. For
+example, adding a category such as “MLS 2022-07-06” to records imported
+on June 6, 2020, from your MLS makes it easy to track, update, or
+correct specific records as needed. This approach helps you quickly
+identify problematic records and act if issues arise during the import.
+
+
+> **The Triple Tag Secret**: Assign at least three categories to each person in your CRM. You should categorize each prospect as a “Buyer” or “Seller”. When categorizing contacts, do that based on your relationship with them, such as “Friend”, “Family”, or “Church”. Then assign a special status to each person, such as “Hot”, “Cold”, or “Top100”. You can even use a “Christmas” category to keep track of who gets an annual card. For vendors, list the kind of vendor they are, like “Electrician”, “Plumber”, and add a second generic “Vendor” category.
+
+
+For prospect records, identify the source or type of the lead. For
+example, indicate whether the data came from “Zillow,” whether the buyer
+is a “Cash” buyer, or whether the lead is “Cold.” Avoid treating
+categories as notes. Instead, use categories for organization. An
+example of an actionable category is “Christmas,” which includes
+everyone you want to send a Christmas card to. An example of an
+organizational category is “Plumber,” which includes all the plumbers in
+your database.
+
+
+Although you can use multi-word categories, I recommend keeping your
+category names concise. This is because using your CRM on your
+smartphone makes it easier to manage short category names, given the
+limited screen space. A common method is to use CamelCase, which
+capitalizes the first letter of each word and eliminates spaces. So,
+“short sale” would become “ShortSale”.
+
+If you're working in a partnership and want a way to identify which
+leads belong to which agent, you can also use categories. For example,
+you might use the agent’s first name as a category, such as adding
+“Cindy” for leads assigned to or originating from Cindy.
+
+Category management is a crucial part of your real estate CRM. The
+problem with untagged records is that, over time, you'll forget who
+these people are. Categories help you remember who they are, how you met
+them, and why they’re in your database.
+
+## Expanding your Contacts Database
+
+It is essential to expand your contact database. Join organizations,
+volunteer, attend church, coach sports, and stay social. Meet your
+neighbors. Call your friends. Be sure to include any relatives in your
+database as well. Add people you know from high school and college.
+Include contacts from other jobs, your church community, and parents of
+your children’s friends. Add friends you might invite to a party, or
+anyone who might invite you to one. Speaking of parties – host them
+regularly. Attend any you're invited to. You should host gatherings for
+neighbors, friends, and family several times a year. Be charming. Make
+the effort. 
+
+
+Build goodwill for your real estate practice by volunteering for causes
+you care about. For example, assist with the Cub Scouts' annual canned
+food drive. If you have school-age children, volunteer in the classroom,
+join the PTA, and help with school events such as dances and sports
+games. For fundraisers, offer to serve as a parent organizer. Many
+organizations, including schools, churches, scouting groups, and sports
+teams, publish newsletters—consider helping to write, publish, or
+sponsor them. See whether the newsletter needs help covering printing
+costs or whether you can sponsor it. This provides exposure to your
+neighbors and builds goodwill. You might also consider sponsoring a
+local sports team, giving you a chance to connect with many parents.
+Some of those parents may be moving that summer, and you could help them
+by serving as their agent.
+
+## Maintaining your Contacts Database
+
+Your contacts database contains a list of people you know, such as past
+clients, relatives, friends, neighbors, and other agents. This database
+is typically synchronized with the contacts on your smartphone, keeping
+it up-to-date across all your devices. When you add a contact to your
+CRM, that information is automatically updated on your smartphone.
+Because this sync is two-way, any changes made in one place will appear
+in the other.
+
+
+For many clients, it’s easiest to use a single contact record to
+represent a family unit. You can enter the spouse’s name in the spouse
+field and label phone numbers and emails so you know which is the main
+contact’s and which is the spouse’s. A combined contact record lets you
+keep notes on the family’s collective goals and send a single Christmas
+card addressed to the family (for example, “John & Sally Smith”). Emails
+and letters would start like: “Dear John & Sally,” providing equal
+billing for both family members. This approach follows modern etiquette.
+A generic CRM geared toward business sales can’t handle this nuance,
+which is one strong reason a real estate-specific CRM is essential.
+
+Your CRM’s mail merge feature allows you to properly address each client
+in letters, envelopes, and mailing labels. This flexibility shows
+respect by enabling you to customize salutations for couples like “Dear
+Jack & Sally,” and properly address professionals such as “Dr.
+Livingston.” Such attention to detail is essential because a home
+purchase involves multiple decision-makers. Forgetting to include one
+partner subtly excludes them from the conversation and can undermine the
+trust you aim to establish.
+
+
+> **The Spare Key Strategy:** For each person in your database, make sure to collect two or more method of contact: a mobile phone number, a personal email address, and a physical mailing address. If someone moves, changes their email address, or phone number without telling you, that additional second method of contact can be used to reconnect. You can then update your CRM with updated contact information. If you have only one key method of contact, your ability to maintain contact is not secure.
+
+
+Alternatively, you might want to keep a separate contact record for each
+family member. That way, when one of them calls, the caller ID clearly
+shows who is calling. If you do this, be sure to send only one Christmas
+card by hiding the mailing address in one of those contact records.
+
+Your real estate CRM can handle both approaches equally well, giving you
+the flexibility to choose whichever makes the most sense for you, based
+on your preferences and needs. For example, if someone is divorcing, you
+will want to use the second approach.
+
+Beyond personal clients, your CRM also tracks business contacts, such as
+other agents and parties involved in a closing, including the closing
+company, loan officer, inspectors, and so on. In these cases, include
+the job title and company name, along with the person’s name. You should
+also include the business mailing address, and you might also include a
+home address if you've become friends and want to send something, like a
+gift, to their home. 
+
+While speaking with people, I recommend updating their contact records
+as you learn new information. Add a date-stamped note for each phone
+call. If a mobile number, email, or mailing address is missing, gather
+it during the conversation. Note the names of spouses and children,
+their hobbies, and even their favorite sports teams. These details help
+you remember past conversations and connect more personally each time
+you call. During this small talk, you might discover that your friend is
+thinking of moving. Non-salesy conversations are built on trust, which
+you earn by remembering details about each person you know, thanks to
+the notes in your CRM.
+
+An excellent piece of additional information to gather is a birthday. If
+there is one time of year when a call from you will be appreciated, it
+is when you call to wish your friend a happy birthday. Each contact
+record can include multiple annual dates, so you can track **birthdays**
+for the contact, their spouse, each child, and even their pets.
+
+You should also track the **closing anniversary**, the yearly milestone
+marking the date you helped your client finalize their home purchase.
+This date offers a valuable opportunity to reconnect, as it celebrates a
+major, positive life event you helped facilitate, reinforcing your role
+as a trusted advisor for their most significant asset.
+
+Your real estate CRM lets you view all birthdates as tasks in your
+database, arranged chronologically from today onward. As you send
+birthday wishes, mark those tasks complete so they reappear on the same
+date next year. Your CRM also helps you print mailing labels if you're
+sending a physical card, schedule an eCard to be sent on the actual
+birthday, and even remind you to call your friend on their birthday.
+
+Pets are a vital part of many people’s lives, and their needs influence
+how buyers choose a home. If a pet passes away, sending a sympathy eCard
+is a considerate way to show you care. There are several ways to respond
+to these meaningful occasions. You can send a physical card, an eCard,
+call them, or send a message on social media. The more personal your
+gesture, the more meaningful it will be.
+
+
+> **The Puzzle Pieces Principal**: Your CRM should contain everything you know about someone. When you talk to them over the phone always take notes. Think of their contact information like a puzzle with the missing pieces being hobbies, birthdays, children’s names, spouse information and so on. Knowing that a home is just 5 minutes from your prospects place of business means that you are better able to help them find their perfect home.
+
+
+Finally, you should keep your database healthy. Most agents have an
+active sphere of influence of 2,000 to 3,000 contacts[15]. To keep your
+list effective, review the contacts you haven't reached out to in the
+past two years. You can do this by sorting your contact list by last
+contact date. These individuals might be candidates for removal or a
+quick call to check in. If you feel a past client doesn't warrant a
+Christmas card, that’s a sign they’re no longer a valuable part of your
+database. The key is quality, not quantity. If you have a past client
+from five years ago, stay in touch with them at least once a year to
+keep them a valuable part of your sphere.
+
+A phenomenon called data paralysis occurs when agents amass large
+numbers of contact records over time and become overwhelmed by the
+volume, leading to inaction. This problem stems from a lack of effective
+systems for organization, consistent follow-up, and prioritization,
+often leaving agents stuck in “analysis paralysis” and neglecting their
+valuable existing database in favor of chasing new, less reliable leads.
+The emotional burden and discomfort of reaching out after a long silence
+add to this inertia, turning what should be a strong business asset into
+a source of stress and missed opportunities.
+
+## Building your Prospects Database
+
+For prospects, the key is to feed a steady stream of new leads into your
+database and follow up promptly. Your real estate CRM offers a wide
+range of tools to help you build and maintain your prospects database.
+
+
+An email feed can automatically convert leads from any website into
+prospect records. You can use a call capture phone number to
+automatically generate prospect records from callers who reach out for
+information via your yard signs. You can automatically add all visitors
+to your open house to your CRM database using the open house feature.
+Your CRM can even provide an **agent contact info form,** a web form for
+your seller to enter contact information from business cards that agents
+leave on the counter when they show the listing. Your CRM can also
+**integrate with your electronic lockbox** (Supra and eKey) to
+automatically create showing records when an agent visits your listing.
+
+You can also load purchased leads from various lead sources using valet
+import. That allows you to feed expireds, FSBOs, probate leads, and
+other leads like this in just a few seconds.
+
+—«◊»—
+
+
+### Jorge Roque 
+
+Broker Jorge Roque of America’s Real Estate Force turns every listing
+into a follow-up opportunity using his CRM. A former computer systems
+engineer, Roque equips all his agents with a CRM that allows him to feed
+leads to individual agents and track their progress. Whenever a visitor
+enters through an eKey lockbox, the CRM captures their contact details,
+logs the showing, and sets a reminder to request follow-up feedback from
+the showing agent. “I explain to my agents that they must get organized
+if they want to succeed in real estate, and the systems we’ve created
+make sure to keep track of everything.” From the moment a contact or
+listing is entered, the CRM records and organizes all related
+information and activity. “At the very end of a transaction, after
+closing, it will automatically calculate commissions based on whatever
+fees or formulas I want to use, no matter how complicated,” Roque notes.
+This builds a history and creates informative data that ensures no
+detail is missed and no responsibility is overlooked.
+
+—«◊»—
+
+The ability to automatically gather fresh leads from multiple sources is
+crucial. It eliminates manual data entry and provides flexibility to
+pursue a range of automated lead-generation strategies.
+
+A key feature is the structure of the prospect record, which includes
+two separate address fields: a **property address** and a **mailing
+address**. For a buyer, this allows you to track the specific listing
+they inquired about while keeping their current residence address on
+file. For a seller, this structure is equally important. The addresses
+will be the same if they live on the property they are selling. If the
+property and mailing addresses differ, the seller is selling an
+investment property or a second home. 
+
+Ideally, people will start as prospects and eventually become clients as
+you help them with their real estate needs.
+
+## Cleaning your Prospects Database
+
+You hope prospects will eventually become clients and friends. However,
+not everyone you meet at an open house will become a client. Naturally,
+some of these prospect records won't be worth your time. 
+
+I recommend using categories to identify which prospect records are cold
+leads by adding the “Cold” category to those records. The easiest way to
+ensure no contact is forgotten is to periodically sort your database by
+last contact date, so the records you contacted longest ago are listed
+first and those you contacted most recently are listed last. Then go
+through each record and either call them or add the “Cold” category to
+that record. If you decide they are not worth a few minutes on a phone
+call, then they are cold.
+
+At the end of the year, **export** all your “Cold” records to create an
+archive copy, then delete them from your database. If you skip this
+cleanup, your prospects will become unwieldy and hard to manage. Some
+prospects may be so outdated that their information is no longer valid.
+Even the most optimistic agent should delete any prospect record that
+hasn't been contacted in two years or more. The chance that someone will
+remember you from a brief meeting two years ago is so low that you'd be
+better off prospecting strangers in a grocery store.
+
