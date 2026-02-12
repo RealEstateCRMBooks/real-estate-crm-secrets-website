@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:93f77081-15a7-437a-9f03-a4b14595cd03" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>UNTITLED</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Real Estate CRM Secrets</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#real-estate-crm-secrets" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#copyright" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#dedication" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#table-of-contents" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#acknowledgements" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text> Introduction</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#introduction" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>Building a Real Estate Business</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#building-a-real-estate-business" />
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>Your Job as a Real Estate Agent</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#your-job-as-a-real-estate-agent" />
+      </navPoint>
+      <navPoint id="navPoint-9">
+        <navLabel>
+          <text> Surviving Your First Year</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#surviving-your-first-year" />
+        <navPoint id="navPoint-10">
+          <navLabel>
+            <text>Samantha Clement</text>
+          </navLabel>
+          <content src="text/ch007.xhtml#samantha-clement" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>Working With a Mentor</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#working-with-a-mentor" />
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>Training for New Agents</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#training-for-new-agents" />
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>Becoming a Trusted Agent</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#becoming-a-trusted-agent" />
+      </navPoint>
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>Building Sustainable Systems</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#building-sustainable-systems" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>Building Trust as a Real Estate Agent</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#building-trust-as-a-real-estate-agent" />
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Top of Mind in Your Market</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#top-of-mind-in-your-market" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>Crafting a Real Estate Brand</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#crafting-a-real-estate-brand" />
+        <navPoint id="navPoint-18">
+          <navLabel>
+            <text>Kathi Vaughn </text>
+          </navLabel>
+          <content src="text/ch008.xhtml#kathi-vaughn" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>Small Talk with Business Cards</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#small-talk-with-business-cards" />
+      </navPoint>
+      <navPoint id="navPoint-20">
+        <navLabel>
+          <text> Blogs to Build Authority</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#blogs-to-build-authority" />
+      </navPoint>
+      <navPoint id="navPoint-21">
+        <navLabel>
+          <text>Marketing That Creates Trust</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#marketing-that-creates-trust" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>Real Estate CRM Features</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#real-estate-crm-features" />
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>Choose Your CRM</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#choose-your-crm" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>Core CRM Features</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#core-crm-features" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>Using Real Estate Specific CRMs</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#using-real-estate-specific-crms" />
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>Repeatable CRM Systems</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#repeatable-crm-systems" />
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>International CRM Use</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#international-crm-use" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>What to Look for in a CRM</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#what-to-look-for-in-a-crm" />
+        <navPoint id="navPoint-29">
+          <navLabel>
+            <text>MaiKai Makena </text>
+          </navLabel>
+          <content src="text/ch009.xhtml#maikai-makena" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-30">
+        <navLabel>
+          <text>Things to avoid in a CRM</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#things-to-avoid-in-a-crm" />
+      </navPoint>
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>CRM Quick Pick List</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#crm-quick-pick-list" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>Engineering Your Habits Using Systems</text>
+      </navLabel>
+      <content src="text/ch010.xhtml#engineering-your-habits-using-systems" />
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>Habits for Results</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#habits-for-results" />
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>Protecting Your Time</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#protecting-your-time" />
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>Tasks vs Appointments</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#tasks-vs-appointments" />
+      </navPoint>
+      <navPoint id="navPoint-36">
+        <navLabel>
+          <text>Task Plans</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#task-plans" />
+        <navPoint id="navPoint-37">
+          <navLabel>
+            <text>Wayne Birkey</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#wayne-birkey" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-38">
+        <navLabel>
+          <text>Touch Cycle</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#touch-cycle" />
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+          <text>Systems to Simplify Work</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#systems-to-simplify-work" />
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+          <text>Real Estate Calculators</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#real-estate-calculators" />
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+          <text>Budgeting Tips</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#budgeting-tips" />
+        <navPoint id="navPoint-42">
+          <navLabel>
+            <text>Mike Holbrook</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#mike-holbrook" />
+        </navPoint>
+        <navPoint id="navPoint-43">
+          <navLabel>
+            <text>Susan Mogren</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#susan-mogren" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-44">
+        <navLabel>
+          <text>Storing Files</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#storing-files" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45">
+      <navLabel>
+        <text>Working your Database</text>
+      </navLabel>
+      <content src="text/ch011.xhtml#working-your-database" />
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>Contacts vs Prospects</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#contacts-vs-prospects" />
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>Categorize Your Database for Marketing</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#categorize-your-database-for-marketing" />
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>Expanding your Contacts Database</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#expanding-your-contacts-database" />
+      </navPoint>
+      <navPoint id="navPoint-49">
+        <navLabel>
+          <text>Maintaining your Contacts Database</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#maintaining-your-contacts-database" />
+      </navPoint>
+      <navPoint id="navPoint-50">
+        <navLabel>
+          <text>Building your Prospects Database</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#building-your-prospects-database" />
+        <navPoint id="navPoint-51">
+          <navLabel>
+            <text>Jorge Roque </text>
+          </navLabel>
+          <content src="text/ch011.xhtml#jorge-roque" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52">
+        <navLabel>
+          <text>Cleaning your Prospects Database</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#cleaning-your-prospects-database" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53">
+      <navLabel>
+        <text>Filling Your Sales Pipeline with Leads</text>
+      </navLabel>
+      <content src="text/ch012.xhtml#filling-your-sales-pipeline-with-leads" />
+      <navPoint id="navPoint-54">
+        <navLabel>
+          <text>Real Estate Sales Funnel</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#real-estate-sales-funnel" />
+      </navPoint>
+      <navPoint id="navPoint-55">
+        <navLabel>
+          <text>Daily Prospecting Habits</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#daily-prospecting-habits" />
+      </navPoint>
+      <navPoint id="navPoint-56">
+        <navLabel>
+          <text>Using Floor Time</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#using-floor-time" />
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+          <text>Open House Strategies</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#open-house-strategies" />
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+          <text>Paid Lead Sources</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#paid-lead-sources" />
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+          <text>Rentals</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#rentals" />
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+          <text>Commercial Real Estate</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#commercial-real-estate" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-61">
+      <navLabel>
+        <text>Proven Prospecting Methods</text>
+      </navLabel>
+      <content src="text/ch013.xhtml#proven-prospecting-methods" />
+      <navPoint id="navPoint-62">
+        <navLabel>
+          <text>Comparative Market Analysis (CMA)</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#comparative-market-analysis-cma" />
+      </navPoint>
+      <navPoint id="navPoint-63">
+        <navLabel>
+          <text>Geographic Farming</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#geographic-farming" />
+        <navPoint id="navPoint-64">
+          <navLabel>
+            <text>Chris Jenkins </text>
+          </navLabel>
+          <content src="text/ch013.xhtml#chris-jenkins" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-65">
+        <navLabel>
+          <text>Door Knocking</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#door-knocking" />
+        <navPoint id="navPoint-66">
+          <navLabel>
+            <text>Colleen MacCallum </text>
+          </navLabel>
+          <content src="text/ch013.xhtml#colleen-maccallum" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-67">
+        <navLabel>
+          <text>Prospecting Absentee Owners</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#prospecting-absentee-owners" />
+      </navPoint>
+      <navPoint id="navPoint-68">
+        <navLabel>
+          <text>Turning Expired Listings into New Clients</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#turning-expired-listings-into-new-clients" />
+      </navPoint>
+      <navPoint id="navPoint-69">
+        <navLabel>
+          <text>Approaching For Sale By Owners (FSBOs)</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#approaching-for-sale-by-owners-fsbos" />
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+          <text>Reverse Prospecting</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#reverse-prospecting" />
+      </navPoint>
+      <navPoint id="navPoint-71">
+        <navLabel>
+          <text>Working with New Home Builders</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#working-with-new-home-builders" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-72">
+      <navLabel>
+        <text>Stand Out When Reaching Out</text>
+      </navLabel>
+      <content src="text/ch014.xhtml#stand-out-when-reaching-out" />
+      <navPoint id="navPoint-73">
+        <navLabel>
+          <text>Phone Call Skills</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#phone-call-skills" />
+      </navPoint>
+      <navPoint id="navPoint-74">
+        <navLabel>
+          <text>Text Messaging</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#text-messaging" />
+      </navPoint>
+      <navPoint id="navPoint-75">
+        <navLabel>
+          <text>Sending Emails</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#sending-emails" />
+      </navPoint>
+      <navPoint id="navPoint-76">
+        <navLabel>
+          <text>Proven Printed Letters</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#proven-printed-letters" />
+      </navPoint>
+      <navPoint id="navPoint-77">
+        <navLabel>
+          <text>Flyers</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#flyers" />
+      </navPoint>
+      <navPoint id="navPoint-78">
+        <navLabel>
+          <text>Sending eCards</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#sending-ecards" />
+      </navPoint>
+      <navPoint id="navPoint-79">
+        <navLabel>
+          <text>Call Capture</text>
+        </navLabel>
+        <content src="text/ch014.xhtml#call-capture" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-80">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="text/ch015.xhtml#conclusion" />
+    </navPoint>
+    <navPoint id="navPoint-81">
+      <navLabel>
+        <text>Further Reading</text>
+      </navLabel>
+      <content src="text/ch016.xhtml#further-reading" />
+    </navPoint>
+    <navPoint id="navPoint-82">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="text/ch017.xhtml#about-the-author" />
+    </navPoint>
+    <navPoint id="navPoint-83">
+      <navLabel>
+        <text>Endnotes</text>
+      </navLabel>
+      <content src="text/ch018.xhtml#endnotes" />
+    </navPoint>
+  </navMap>
+</ncx>
