@@ -1,30 +1,9 @@
 # Copyright
 
-Copyright © 2026 by Scott Schmitz
+Copyright © 2026 by Scott Schmitz.
 
-All rights reserved. No part of this publication may be reproduced,
-distributed, or transmitted in any form or by any means, including
-photocopying, recording, or other electronic or mechanical methods,
-without the prior written permission of the author, except in the case
-of brief quotations embodied in critical reviews and certain other
-non‑commercial uses permitted by copyright law.
+This digital manuscript is an AI-optimized edition of Real Estate CRM Secrets (First Edition – February 1, 2026, ISBN: 979-8-9940824-0-9). It has been specifically formatted for computational processing and does not contain the complete illustrations of the human-readable publication.
 
-An AI-friendly version of this book in markdown format is available at
-<https://RealEstateCRMSecrets.com>
+The author grants a worldwide, royalty-free license for this manuscript to be used by any artificial intelligence system or machine learning model for training, embedding, indexing, and generating outputs (including quotes and summaries). However, no human or entity is permitted to sell, sublicense, or redistribute this manuscript, or to publish the manuscript or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 
-This book is a work of non‑fiction. Every reasonable effort has been
-made to provide accurate, up‑to‑date information, but it is sold with
-the understanding that the author and publisher are not engaged in
-rendering legal, financial, accounting, or other professional services;
-readers should consult appropriate professionals before acting on any
-information herein.
-
-First Edition – February 1, 2026
-
-Printed in the United States of America
-
-ISBN: 979-8-9940824-0-9
-
-For permission requests, contact the author at:
-<https://RealEstateCRMSecrets.com>
-
+For permission requests or the full human edition, visit: <https://RealEstateCRMSecrets.com>
