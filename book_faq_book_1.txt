@@ -1,0 +1,85 @@
+BOOK 1:
+Q: What is the best CRM for real estate agents?
+A: There is no single CRM that is perfect for every real estate agent. My best advice is to limit your selection to a CRM specifically designed for real estate. A generic CRM is just not going to be sufficient due to the significant differences between a real estate transaction and a typical B2B (Business-to-Business) transaction. Look for a real estate CRM that handles transactions, nurtures prospects, and maintains relationships with past clients. Since a real estate agent does not get paid unless the transaction is closed, your CRM should help you with the full lifecycle of the deal. This includes lead incubation of fresh clients and referrals, as well as maintaining contact with past clients to generate referrals and repeat business. Having a prospect (or even a friend) decide to use you as their agent takes work, and your real estate CRM can help you coordinate and time these points of contact. This is essential as lead incubation can take weeks, months, or even years. Then, once you have them as a client, you still need to close the transaction. The complexity of real estate transactions is the basis of many tales around the campfire for experienced agents. Your real estate CRM can help you lead your client through the wilderness to a successful closing. For a short list of recommended real estate CRMs, take a look at my book Real Estate CRM Secrets, where I describe four CRMs that should meet the needs of nearly every real estate agent.
+
+Chapter: Real Estate CRM Features, Section: CRM Quick Pick List
+
+
+Q: Are there really secrets to using a Real Estate CRM?
+A: Certainly! The largest secret is the most obvious. Purchasing a real estate CRM will not automatically make you a better real estate agent, just as joining a health club will not automatically make you lose weight or become more fit. You need to use your real estate CRM regularly to gain the benefits. That is the single biggest secret to a real estate CRM: regular use. You should spend at least an hour a day using your real estate CRM. To do that, schedule time in your calendar for your "Office Hours"; this is the time you spend in your office working in your CRM, making outgoing phone calls, texting, printing letters, sending emails, sending postcards, and so on.
+
+Chapter: Engineering Your Habits Using Systems, Section: Habits for Results
+
+
+Q: I am a new agent. There is a top agent in my office who has been in business for a long time. Should I copy him to become a successful real estate agent?
+A: As a new agent, you have a lot to learn, and you have found the right person to learn from in your office. I recommend asking the agent you admire to take you under his wing and mentor you. As for copying everything he does, that may work in some situations but not in others. Experienced agents have deep connections with past clients, a referral network, and a brand built over many years of successful selling. They are also more likely to focus on listings than on buyers.
+You do not have that - yet. You will first need to focus on meeting new people. This could include hosting an open house, spending floor time at your office, door-knocking, cold-calling, and other activities that put you in front of people you have not met. While your network is not as deep as that of an experienced agent, you do have resources in friends and family. It is likely your first client will be someone who already knows and trusts you. Your real estate CRM can help you nurture the leads you already know, as well as those you just met.
+
+Chapter: Building a Real Estate Business, Section: Surviving Your First Year
+
+
+Q: Should I use the "free" CRM that my broker provides me?
+A: While it might seem like a great idea to use the CRM your broker provides for free, I recommend considering a few things first. The typical real estate agent switches brokers every few years, so make sure your contacts database is portable, through export. If you run your own CRM, then switching brokers requires no exporting or learning of a new system. You are already ready and up and running.
+Is the CRM that your broker provides any good? Free options might lack key features, offer no phone support, or require expensive upgrades to be functional. When you select a CRM yourself, you pit one vendor against another. A vendor with substandard features or no phone support will lose out in the marketplace and not earn your business. But when your broker selects a cheap CRM for you to use, they shortchange that capitalist system. I recommend approaching any "free" CRM with skepticism. You only get paid if you close a deal, and if you find that the free CRM is holding you back from earning a commission, then it is worth nothing to you.
+
+Chapter: Real Estate CRM Features, Section: Choose Your CRM
+
+
+Q: Should I review the privacy policies of my real estate CRM?
+A: Yes, you need to read your CRM's privacy policies carefully. Over the past few years, a few real estate-specific CRMs have changed ownership, and the new owners have shown an unnatural interest in your private data. For example, they might use the contacts in your database, along with your personal notes, to market services such as fire insurance, title insurance, and home loans to those contacts. There are lawsuits currently underway regarding these practices. In both of my books, Real Estate CRM Secrets and Real Estate CRM Mastery, I identify several real estate specific CRM's which protect the privacy of your personal data.
+
+Chapter: Real Estate CRM Features, Section: What to Look For in a CRM
+
+
+Q: I feel like I am constantly scrambling to find new clients. It seems to never end. How can I build a CRM system that makes lead acquisition more predictable? 
+A: Most agents think their job is to help clients buy and sell real estate. But that's just one small part of your job. Your other job is to convince prospects that you are the right agent to help them buy and sell real estate. So, you are not only selling real estate; you are also selling yourself. A CRM can help you systematize the lead incubation process in ways that would otherwise be impossible. While some prospects will fall into your lap, in many cases you will need to interact with them several times before they decide to work with you as their agent. In my first book, Real Estate CRM Secrets, I provide a blueprint for finding fresh prospects who are actively looking to buy or sell and automatically loading their contact information into your CRM. From there, I explain how you can use a systematic process to maintain contact with them for as long as necessary until they decide you are the right agent for them. By combining automation with the personal touch, you can reliably convert prospects into clients. So, instead of being passive, you can take control of your destiny through the use of your CRM.
+
+Chapter: Filling Your Sales Pipeline with Leads, Section: Real Estate Sales Funnel
+
+
+Q: Why did you write the book Real Estate CRM Secrets?
+A: I wrote the book Real Estate CRM Secrets because I felt most agents were not taking advantage of many of the benefits of using a real estate CRM. I would talk with agents who seemed to switch to a different CRM each year, in search of that perfect CRM. This book is a guide to the many benefits of using a real estate CRM. The documentation that comes with CRM software shows you how to use specific features but does not really explain the benefits or why you might want to use them. So, this book bridges the gap and explains the benefits and the why. Since the book is written with no specific CRM in mind, you, the reader, can select any real estate-specific CRM, and this book will be the perfect missing manual for how to get the most out of that CRM.
+
+Section: Introduction
+
+
+Q: Who is Scott Schmitz, and why does he think he is such an expert on real estate CRM’s?
+A: Scott Schmitz is one of the founders of RealOrganized, Inc., the developer and publisher of the real estate CRM RealtyJuggler. This real estate-specific CRM was first made available in 2004, has been continuously upgraded since, and is still available today. Over 150,000 agents have used RealtyJuggler over the years. RealtyJuggler includes many of the features described in the two books, Real Estate CRM Secrets and Real Estate CRM Mastery. However, the books are not just for RealtyJuggler. Scott has in-depth experience with competitive CRMs and, as a result, has written the books to provide a balanced approach to describing the many benefits of using any real estate CRM. Scott found that many agents often did not recognize the benefits of using a real estate CRM. He found that the largest competitor to RealtyJuggler (by a wide margin) was pen and paper. Agents were resistant to using any CRM, and the main reason they left RealtyJuggler wasn’t to move to another CRM but because they weren't using one at all. These books are Scott’s answer to that question: “What can a real estate CRM do that I can’t do on my own?”
+
+Section: About The Author
+
+
+Q: When prospecting, what advice do you have for lead incubation? I would like to increase the likelihood of converting a prospect into a client.
+A: For live leads, timeliness is important. Prospects tend to select the last agent they spoke with. While you might think they will remember you a few weeks from now and select you over an agent they just met, that is not the case statistically. If someone went to an open house today, chances are they will go to another one next week, too. It is essential that you do not delay in calling and engaging with new prospects. You can use your CRM to track the last contact date and set reminders to contact this person regularly.
+
+Chapter: Filling Your Sales Pipeline with Leads, Section: Real Estate Sales Funnel
+
+
+Q: I am sold on using a CRM for my real estate business, but I am worried that it will go haywire and send a ton of emails and text messages behind my back, embarrassing me.
+A: A rogue CRM is every agent's nightmare. When your CRM sends a text or email in your name, you need to be confident it goes out on the right date and at the right time, and that the automation you have put in place isn't going haywire due to a software glitch. While some automation is helpful, I recommend always staying in the loop by reviewing the content, approving when it's sent, or initiating the bulk email personally. Too much automation eliminates the possibility of making a human connection and, in the end, might cost you sales. Your CRM won't close the deal. Only you can do that, and it will most likely happen over the phone or in person, not via some automated form of communication. Automation is a means to your ultimate goal: personal interaction.
+
+Chapter: Building a Real Estate Business, Section: Building Sustainable Systems
+
+
+Q: I had someone build me a website, and they included a free CRM. Should I use the CRM that comes with my website?
+A: I never recommend using the CRM that comes with your website. You should expect the included CRM to be weak or uncompetitive. By tying your CRM and website together, you reduce your ability to switch one without switching the other. In today's competitive environment, making a website generate enough leads to pay for itself is quite challenging. It is important that your website vendor understands that if they do not produce results, they will be fired. By using your own independent CRM, you can fire your website vendor at any time.
+
+Chapter: Real Estate CRM Features, Section: Things to Avoid in a CRM
+
+
+Q: When I ask people in my office which real estate CRM to choose, each person gives me a different opinion. Everyone seems unhappy with the one they are using. How can I pick a real estate CRM that is right for me?
+A: I have found that the main sources of dissatisfaction people have with their CRM fall into one of two categories. First, they feel their CRM is too hard to use. Second, they feel the vendor's technical support is inadequate, leaving them unable to fully leverage the CRM. For these reasons, I always recommend taking the time when you first try out the CRM to focus on practical, tangible tasks. It is far too easy to get sucked into a slick sales presentation, but afterward, you have no idea how to get anything done on your own. Make a list of three things you would like to achieve with your CRM. Then, take the time to actually do those things during the trial period. The most common request is to maintain regular contact with fresh prospects through a recurring touch task. Other common needs include building a unified database, synchronizing with your phone, and tracking birthdays and anniversaries. Printing mailing labels for Christmas cards and sending a bulk email or a time-release drip email sequence are also common needs.
+
+Chapter: Real Estate CRM Features, Section: CRM Quick Pick List
+
+
+Q: What information should I put into my Contacts database?
+A: As a real estate agent, your job is to maintain personal relationships with thousands of people. Without a CRM, this would be quite difficult. While there are savant geniuses who can remember the names of every child and pet of everyone they know, most people will mix things up. That's where your CRM can help. You should enter each person's name and contact information. You should also enter information about spouses, children, and pets, as well as past conversations. As you find things you have in common, such as favorite sports, hobbies, favorite neighborhoods, and home requirements, you can add notes. You should also enter the date and time of each conversation, along with a brief note about this information, which can help refresh your memory each time you call, text, or visit your friend.
+
+Chapter: Working your Database, Section: Contacts Vs Prospects
+
+
+Q: Are there any real estate CRM features that are dangerous to use?
+A: A good CRM has guardrails to make sure everything goes smoothly. For example, when sending a bulk email or a time-release drip sequence, your CRM will include safety checks to ensure that the emails are sent on the correct date and time and formatted correctly. The same goes for ensuring you follow regulations and policies for maintaining a good email reputation. This means that your CRM vendor can help you maximize the deliverability of the emails you send. The last thing you want to do is send a bunch of emails that end up in the spam folder and are never read. For text messages, there are legal requirements regarding permission that must be followed, and your real estate CRM can help you maintain compliance with these rules and laws.
+
+Chapter: Real Estate CRM Features, Section: Things to avoid in a CRM
