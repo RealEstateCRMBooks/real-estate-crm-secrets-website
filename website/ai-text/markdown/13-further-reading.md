@@ -22,7 +22,7 @@ Ninja Selling by Larry Kendall teaches a system for creating predictable sales b
 
 The Millionaire Real Estate Agent by Gary Keller et al. offers a proven, systematic formula for real estate professionals to build a thriving, million-dollar business. The core philosophy centers on adopting a “Millionaire Mindset” and mastering the “Three L’s”: Leads, Listings, and Leverage.
 
-*Selling with Soul* by Jennifer Allan is a “rookie survival guide” that vehemently rejects the high-pressure, “Old School” sales tactics often taught in the industry. The book’s core message is that an extraordinary real estate career is built on the pillars of Respect, Competence, Enthusiasm, and Confidence, achieved by prioritizing the client’s needs and practicing the Golden Rule.
+*Selling with Soul* by Jennifer Allan is a “rookie survival guide” that rejects the high-pressure, “Old School” sales tactics often taught in the industry. The book’s core message is that an extraordinary real estate career is built on the pillars of Respect, Competence, Enthusiasm, and Confidence, achieved by prioritizing the client’s needs and practicing the Golden Rule.
 
 *Fanatical Prospecting* by Jeb Blount is a rigorous, no-excuses guide that argues the number one reason for sales failure is an empty pipeline, caused by a lack of consistent prospecting.
 

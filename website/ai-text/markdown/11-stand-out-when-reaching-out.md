@@ -176,7 +176,7 @@ Your real estate CRM can print your envelope or mailing label for a polished loo
 
 ## Flyers
 
-Your real estate CRM includes a flyer library you can use to create flyers for each of your listings. You can also use it to design invitations for open houses. These flyers can be printed or sent as images via email or text message. Using the built-in flyer templates in your CRM lets you quickly fill in the details, saving you a lot of time.
+Most real estate CRMs include a flyer library you can use to create flyers for each of your listings. You can also use it to design invitations for open houses. These flyers can be printed or sent as images via email or text message. Using the built-in flyer templates in your CRM lets you quickly fill in the details, saving you a lot of time.
 
 Some agents still like to include flyers in the flyer box on the yard sign outside. But many agents have shifted to using an electronic flyer, which can be accessed by texting a 3-digit call capture code to a special phone number posted on the yard sign. The advantage of this approach is that you no longer need to spend money on printed flyers or refill the flyer box. It also automatically captures the phone number and caller ID for anyone who inquires. When someone grabs a flyer from the flyer box, you only get a lead if the buyer calls you. With call capture, you capture all inquiries.
 
@@ -192,7 +192,7 @@ A more subtle benefit is that when you send your eCard, you verify whether the e
 
 > **Bungled Birthday Secret**: Sending an automated birthday eCard misses out on a more personal touch. Use your CRM’s birthday reminders to make a phone call instead, which is more effective. This is especially true for a “Top100” contact.
 
-I recommend using eCards in moderation. While eCards can be fun, they can also become repetitive. For example, if you send one for Halloween, another for Thanksgiving, one for Christmas, and one for New Year’s, by the time Martin Luther King Jr.’s birthday arrives, even your own mother might unsubscribe. Sending one or two eCards a year to people provides the best benefits while lowering the risk of someone unsubscribing.
+I recommend using eCards in moderation. While eCards can be fun, they can also become repetitive. For example, if you send one for Halloween, another for Thanksgiving, one for Christmas, and one for New Year’s, by the time Martin Luther King Jr.’s birthday arrives, even your own mother might unsubscribe. Sending one or two eCards a year to people provides the best benefits, while keeping the risk of someone unsubscribing low.
 
 ## Call Capture
 

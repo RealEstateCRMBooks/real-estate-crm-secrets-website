@@ -14,8 +14,6 @@ Your database is your most valuable asset. Keep it organized and up-to-date. Usi
 
 Top agents rely on systems, not luck. Spend time each day prospecting. Start with simple systems, keep costs low, and let your CRM support your growth.
 
-I have also written a companion book, *Real Estate CRM Mastery,* which covers advanced topics such as growing your business, long-term lead-nurturing strategies, and generating repeat and referral clients from your sphere of influence.
-
 If you have any further questions about CRMs or real estate technology, please contact me via my website at: RealEstateCRMSecrets.com.
 
 ---
