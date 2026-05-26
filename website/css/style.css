@@ -527,6 +527,13 @@ a[href*="ai-text.html"] {
 }
 
 /* Updated Book Layout Styles */
+.book-cover {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 .book-cover-image {
     width: 100%;
     max-width: 380px;
@@ -534,6 +541,8 @@ a[href*="ai-text.html"] {
     border-radius: 4px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
     margin: 0 auto;
+    -webkit-user-drag: none;
+    user-drag: none;
 }
 
 .book-subtitle {

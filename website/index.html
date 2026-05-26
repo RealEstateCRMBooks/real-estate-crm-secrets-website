@@ -99,6 +99,10 @@
             width: 100%;
             max-width: 380px;
             margin: 0 auto;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
         }
 
         .book-cover-inner {
@@ -144,6 +148,8 @@
             height: auto;
             /* Reserve vertical space before the image loads to prevent CLS */
             aspect-ratio: 1151 / 1652;
+            -webkit-user-drag: none;
+            user-drag: none;
         }
     </style>
 </head>
