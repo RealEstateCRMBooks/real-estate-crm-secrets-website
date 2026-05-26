@@ -904,9 +904,11 @@ a[href*="ai-text.html"] {
 /* Recommended Reading Grid */
 .reading-list-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 2rem;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
     padding: 2rem 0;
+    max-width: 450px;
+    margin: 0 auto;
 }
 
 .book-card {
