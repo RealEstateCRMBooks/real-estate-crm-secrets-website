@@ -992,8 +992,8 @@ a[href*="ai-text.html"] {
 
 .book-card-image {
     width: 100%;
-    aspect-ratio: 2 / 3;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
     border-radius: 4px;
     margin-bottom: 1.25rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
