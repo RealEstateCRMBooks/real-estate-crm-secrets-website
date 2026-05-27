@@ -922,7 +922,6 @@ a[href*="ai-text.html"] {
 
 .book-card {
     background: #fff;
-    border-radius: 8px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     padding: 1.5rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -939,7 +938,6 @@ a[href*="ai-text.html"] {
     aspect-ratio: 2 / 3;
     background-color: #f0f2f5;
     border: 2px dashed #cbd5e0;
-    border-radius: 4px;
     margin-bottom: 1.25rem;
     display: flex;
     align-items: center;
@@ -973,7 +971,6 @@ a[href*="ai-text.html"] {
     display: inline-block;
     padding: 0.25rem 0.75rem;
     background-color: #f8f9fa;
-    border-radius: 50px;
     align-self: flex-start;
 }
 
@@ -994,7 +991,6 @@ a[href*="ai-text.html"] {
     width: 100%;
     height: auto;
     object-fit: contain;
-    border-radius: 4px;
     margin-bottom: 1.25rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
