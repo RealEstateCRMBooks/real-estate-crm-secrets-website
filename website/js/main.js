@@ -10,7 +10,7 @@ if (toggle) {
 // Book Flip Logic
 const bookCover = document.getElementById('bookCover');
 if (bookCover) {
-    bookCover.addEventListener('click', () => {
+    setInterval(() => {
         bookCover.classList.toggle('flipped');
-    });
+    }, 10000);
 }
