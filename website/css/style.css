@@ -465,6 +465,13 @@ a[href*="ai-text.html"] {
 
 }
 
+/* Single Column Hero Layout (for interview.html) */
+.hero-container.hero-single-column {
+    grid-template-columns: 1fr;
+    text-align: left;
+    gap: 2rem;
+}
+
 /* Vertical Hero Layout (for resources.html) */
 .hero-container.hero-vertical {
     grid-template-columns: 1fr;
