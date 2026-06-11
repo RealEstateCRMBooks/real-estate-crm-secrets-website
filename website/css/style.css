@@ -137,7 +137,6 @@ img {
     width: 25px;
     height: 3px;
     background-color: var(--text-color);
-    border-radius: 2px;
 }
 
 /* Hero Section */
@@ -182,7 +181,6 @@ img {
     width: 100%;
     max-width: 500px;
     height: auto;
-    border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
     display: block;
     margin: 0 auto;
@@ -205,7 +203,6 @@ img {
 .btn {
     display: inline-block;
     padding: 0.9rem 2rem;
-    border-radius: 6px;
     font-weight: 600;
     transition: all 0.3s ease;
     text-align: center;
@@ -316,7 +313,6 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 4px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
     margin: 0 auto;
     font-family: var(--font-heading);
@@ -335,7 +331,6 @@ img {
     background-color: var(--accent-color);
     color: #fff;
     padding: 0.35rem 0.85rem;
-    border-radius: 50px;
     font-size: 0.8rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
@@ -538,7 +533,6 @@ a[href*="ai-text.html"] {
     width: 100%;
     max-width: 380px;
     height: auto;
-    border-radius: 4px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
     margin: 0 auto;
     -webkit-user-drag: none;
@@ -760,7 +754,6 @@ a[href*="ai-text.html"] {
 .opt-in-box {
     background-color: #ffffff;
     padding: 2.5rem;
-    border-radius: 12px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
     border: 1px solid var(--border-color);
     max-width: 450px;
@@ -804,7 +797,6 @@ a[href*="ai-text.html"] {
     width: 100%;
     padding: 0.9rem;
     border: 2px solid var(--border-color);
-    border-radius: 6px;
     font-size: 1rem;
     font-family: var(--font-heading);
     transition: border-color 0.3s;
@@ -1025,7 +1017,6 @@ a[href*="ai-text.html"] {
 .secret-item {
     background-color: #ffffff;
     padding: 2rem;
-    border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     border: 1px solid var(--border-color);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -1115,7 +1106,6 @@ a[href*="ai-text.html"] {
 .quote-item {
     background-color: #ffffff;
     padding: 2rem;
-    border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     border: 1px solid var(--border-color);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -1177,7 +1167,6 @@ a[href*="ai-text.html"] {
 .resource-card {
     background: #ffffff;
     padding: 2.5rem;
-    border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     border: 1px solid var(--border-color);
     transition: all 0.3s ease;
@@ -1238,7 +1227,6 @@ a[href*="ai-text.html"] {
 
 .faq-item {
     background: white;
-    border-radius: 8px;
     margin-bottom: 0.75rem;
     padding: 1rem 1.25rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
@@ -1279,7 +1267,6 @@ a[href*="ai-text.html"] {
     height: 40px;
     border: 4px solid var(--border-color);
     border-top: 4px solid var(--accent-color);
-    border-radius: 50%;
     animation: spin 1s linear infinite;
     z-index: 0;
     transition: opacity 0.3s;
@@ -1312,7 +1299,6 @@ a[href*="ai-text.html"] {
     margin: 0 auto;
     padding: 2.5rem;
     border: 1px solid var(--border-color);
-    border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
 }
 
