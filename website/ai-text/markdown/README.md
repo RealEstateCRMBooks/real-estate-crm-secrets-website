@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: README
 chapter_number: 0
 author: Scott Schmitz
-website: realEstateCRMSecrets.com
+website: RealEstateCRMSecrets.com
 ---
 
 # REAL ESTATE CRM SECRETS

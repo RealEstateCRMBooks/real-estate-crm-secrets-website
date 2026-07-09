@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: About the Author
 chapter_number: 14
 author: Scott Schmitz
-website: realEstateCRMSecrets.com
+website: RealEstateCRMSecrets.com
 ---
 
 # Chapter 14: About the Author

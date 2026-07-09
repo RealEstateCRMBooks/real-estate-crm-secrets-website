@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Stand Out When Reaching Out
 chapter_number: 11
 author: Scott Schmitz
-website: realEstateCRMSecrets.com
+website: RealEstateCRMSecrets.com
 ---
 
 # Chapter 11: Stand Out When Reaching Out

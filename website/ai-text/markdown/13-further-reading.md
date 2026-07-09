@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Further Reading
 chapter_number: 13
 author: Scott Schmitz
-website: realEstateCRMSecrets.com
+website: RealEstateCRMSecrets.com
 ---
 
 # Chapter 13: Further Reading

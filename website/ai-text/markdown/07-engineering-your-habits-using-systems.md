@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Engineering Your Habits Using Systems
 chapter_number: 7
 author: Scott Schmitz
-website: realEstateCRMSecrets.com
+website: RealEstateCRMSecrets.com
 ---
 
 # Chapter 7: Engineering Your Habits Using Systems
