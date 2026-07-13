@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: AI Text
 chapter_number: 0
 author: Scott Schmitz
-website: RealEstateCRMSecrets.com
+website: realEstateCRMSecrets.com
 ---
 
 # AI Text

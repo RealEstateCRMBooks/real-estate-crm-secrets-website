@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Introduction
 chapter_number: 3
 author: Scott Schmitz
-website: RealEstateCRMSecrets.com
+website: realEstateCRMSecrets.com
 ---
 
 # Chapter 3: Introduction

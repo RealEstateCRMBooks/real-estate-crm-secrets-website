@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Building a Real Estate Business
 chapter_number: 4
 author: Scott Schmitz
-website: RealEstateCRMSecrets.com
+website: realEstateCRMSecrets.com
 ---
 
 # Chapter 4: Building a Real Estate Business

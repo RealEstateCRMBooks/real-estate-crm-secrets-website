@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Acknowledgements
 chapter_number: 2
 author: Scott Schmitz
-website: RealEstateCRMSecrets.com
+website: realEstateCRMSecrets.com
 ---
 
 # Chapter 2: Acknowledgements

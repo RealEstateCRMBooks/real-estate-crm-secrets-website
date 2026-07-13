@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Working Your Database
 chapter_number: 8
 author: Scott Schmitz
-website: RealEstateCRMSecrets.com
+website: realEstateCRMSecrets.com
 ---
 
 # Chapter 8: Working Your Database

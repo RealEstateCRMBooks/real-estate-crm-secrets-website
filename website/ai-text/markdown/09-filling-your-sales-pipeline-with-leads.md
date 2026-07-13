@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Filling Your Sales Pipeline with Leads
 chapter_number: 9
 author: Scott Schmitz
-website: RealEstateCRMSecrets.com
+website: realEstateCRMSecrets.com
 ---
 
 # Chapter 9: Filling Your Sales Pipeline with Leads
