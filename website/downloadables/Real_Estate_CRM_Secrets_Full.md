@@ -244,7 +244,7 @@ I am grateful to the entire RealtyJuggler team and your decades of
 experience in real estate CRMs. I draw upon the knowledge from fielding
 countless sales and support calls over the past 20 years.
 
-#  Introduction
+# Introduction
 
 In 1992, anthropologist Robin Dunbar famously suggested that humans
 could only manage about 150 meaningful relationships. But there are real
@@ -445,7 +445,7 @@ builds the trust necessary for a referral-based business and provides
 the structure to turn your initial efforts into a predictable,
 sustainable income.
 
-##  Surviving Your First Year
+## Surviving Your First Year
 
 Your first year as a new agent involves building the foundation of your
 business. This begins with obtaining a real estate license and choosing
@@ -1249,7 +1249,7 @@ have that cowboy vibe, showing photos of you in your Stetson and boots.
 —«◊»—
 
 
-### Kathi Vaughn 
+### Kathi Vaughn
 
 To build a strong brand, an agent needs to find their identity. Your
 identity communicates to clients what matters to you and what kind of
@@ -1534,7 +1534,7 @@ your natural charisma and salesmanship a chance to shine the way it
 would at an open house, it’s just one more place for members of the
 community to learn your name.
 
-##  Blogs to Build Authority
+## Blogs to Build Authority
 
 One way to build your local reputation is to create and run a blog on
 social media platforms such as Facebook, LinkedIn, and X. This also
@@ -2405,7 +2405,7 @@ gaining any value from your CRM.
 —«◊»—
 
 
-### MaiKai Makena 
+### MaiKai Makena
 
 Starting as a new real estate agent takes some capital investment up
 front, but if you watch your budget, you can keep yourself afloat until
@@ -3874,7 +3874,7 @@ other leads like this in just a few seconds.
 —«◊»—
 
 
-### Jorge Roque 
+### Jorge Roque
 
 Broker Jorge Roque of America’s Real Estate Force turns every listing
 into a follow-up opportunity using his CRM. A former computer systems
@@ -6477,7 +6477,7 @@ real estate technology.
 
 Scott has written two books that provide a comprehensive, repeatable
 system for agents to maximize their use of a real estate CRM. The first
-book, *Real Estate CRM* Secrets (the book you are reading now), focuses
+book, *Real Estate CRM Secrets* (the book you are reading now), focuses
 on the fundamental systems a new agent needs to get organized, establish
 consistent habits, and grow their business. The second book, *Real
 Estate CRM Mastery*, is for experienced agents who have mastered these
