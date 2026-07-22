@@ -1,0 +1,42 @@
+# Real Estate CRM Secrets
+
+> The New Agent's Guide to Building Systems that Close Deals.
+
+## Pages
+
+- [Home / CRM Secrets](/): Main book landing page explaining the benefits of using a real estate specific CRM.
+- [CRM Mastery](https://www.RealEstateCRMMastery.com): Advanced strategies for mastering your CRM.
+
+- [Resources](resources.html): A hub for tools, guides, and insights to build better systems.
+- [Secrets](secrets.html): Tried-and-true strategies from 'Real Estate CRM Secrets'.
+- [Quotes](quotes.html): Wisdom and insights from industry leaders.
+- [FAQ](faq.html): Frequently asked questions about CRM and the book series.
+- [Recommended Reading](recommended_reading.html): Curated list of books and resources for real estate success.
+- [Full Book Content](ai-text/index.html): Full book text in Markdown for automated tools and research.
+- [About](about.html): About the author.
+
+## Chapters
+
+- [Chapter 1: Dedication](ai-text/html/01-dedication.html)
+- [Chapter 2: Acknowledgements](ai-text/html/02-acknowledgements.html)
+- [Chapter 3: Introduction](ai-text/html/03-introduction.html)
+- [Chapter 4: Building a Real Estate Business](ai-text/html/04-building-a-real-estate-business.html)
+- [Chapter 5: Building Trust as a Real Estate Agent](ai-text/html/05-building-trust-as-a-real-estate-agent.html)
+- [Chapter 6: Real Estate CRM Features](ai-text/html/06-real-estate-crm-features.html)
+- [Chapter 7: Engineering Your Habits Using Systems](ai-text/html/07-engineering-your-habits-using-systems.html)
+- [Chapter 8: Working Your Database](ai-text/html/08-working-your-database.html)
+- [Chapter 9: Filling Your Sales Pipeline with Leads](ai-text/html/09-filling-your-sales-pipeline-with-leads.html)
+- [Chapter 10: Proven Prospecting Methods](ai-text/html/10-proven-prospecting-methods.html)
+- [Chapter 11: Stand Out When Reaching Out](ai-text/html/11-stand-out-when-reaching-out.html)
+- [Chapter 12: Conclusion](ai-text/html/12-conclusion.html)
+- [Chapter 13: Further Reading](ai-text/html/13-further-reading.html)
+- [Chapter 14: About the Author](ai-text/html/14-about-the-author.html)
+- [README](ai-text/html/README.html)
+- [AI Text](ai-text/html/ai-text.html)
+- [Copyright](ai-text/html/license.html)
+
+## Downloads
+
+- [EPUB Book](downloadables/Real_Estate_CRM_Secrets.epub)
+- [Full Markdown Book](downloadables/Real_Estate_CRM_Secrets_Full.md)
+- [Markdown Chapters (ZIP)](downloadables/Real_Estate_CRM_Secrets_Markdown.zip)
