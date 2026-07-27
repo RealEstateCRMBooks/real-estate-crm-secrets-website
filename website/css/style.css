@@ -546,6 +546,10 @@ a[href*="ai-text.html"] {
     user-drag: none;
 }
 
+.book-cover-front {
+    margin-bottom: 2rem;
+}
+
 .book-subtitle {
     font-size: 1.1rem;
     color: var(--light-text-color);
