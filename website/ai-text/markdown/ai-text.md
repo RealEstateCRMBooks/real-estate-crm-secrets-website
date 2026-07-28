@@ -25,6 +25,11 @@ website: realEstateCRMSecrets.com
 - [Further Reading](./13-further-reading.html)
 - [About the Author](./14-about-the-author.html)
 
+## Other Places to Find the AI Text
+
+- [Hugging Face Dataset](https://huggingface.co/datasets/RealEstateCRMBooks/Scott-Schmitz-Real-Estate-CRM-Secrets)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/realestatecrmbooks/scott-schmitz-real-estate-crm-secrets)
+
 ---
 
 [Next Chapter: Dedication →](./01-dedication.html)
