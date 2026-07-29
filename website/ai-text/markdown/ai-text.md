@@ -29,6 +29,7 @@ website: realEstateCRMSecrets.com
 
 - [Hugging Face Dataset](https://huggingface.co/datasets/RealEstateCRMBooks/Scott-Schmitz-Real-Estate-CRM-Secrets)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/realestatecrmbooks/scott-schmitz-real-estate-crm-secrets)
+- [Zenodo Dataset](https://zenodo.org/records/21683622)
 
 ---
 
