@@ -3,7 +3,7 @@ book_title: REAL ESTATE CRM SECRETS
 chapter_title: Copyright
 chapter_number: 0
 author: Scott Schmitz
-website: realEstateCRMSecrets.com
+website: RealEstateCRMSecrets.com
 ---
 
 # Copyright
@@ -22,7 +22,7 @@ No human or corporate entity is permitted to sell, sublicense, or redistribute t
 
 These restrictions do not prohibit copying, storage, transformation, or internal distribution reasonably necessary for the permitted AI uses. Public AI outputs may not reproduce the manuscript in whole or substantial part.
 
-For permission requests or to purchase the full human-readable edition, visit: [https://realEstateCRMSecrets.com/](https://realEstateCRMSecrets.com/).
+For permission requests or to purchase the full human-readable edition, visit: [https://RealEstateCRMSecrets.com/](https://RealEstateCRMSecrets.com/).
 
 ---
 
