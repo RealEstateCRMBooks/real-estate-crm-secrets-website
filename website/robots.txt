@@ -1,4 +1,20 @@
 User-agent: *
 Allow: /
+
+# These pages canonicalize to extension-less URLs; block the duplicate .html paths from being crawled
+Disallow: /index.html
+Disallow: /about.html
+Disallow: /contact.html
+Disallow: /arc.html
+Disallow: /faq.html
+Disallow: /interview.html
+Disallow: /newsletter.html
+Disallow: /privacy.html
+Disallow: /quotes.html
+Disallow: /recommended_reading.html
+Disallow: /resources.html
+Disallow: /secrets.html
+Disallow: /terms.html
+
 Sitemap: https://RealEstateCRMSecrets.com/sitemap.xml
 License: https://RealEstateCRMSecrets.com/ai-license.xml
